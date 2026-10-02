@@ -58,8 +58,10 @@ KST 날짜 병기(동률이면 더 최근), 기록 0건/1건/손상 줄/불러�
 | 항목 | 값 |
 |---|---|
 | 시작 소스 주소 | https://github.com/terran1234/daily-board-04 |
-| 시작 커밋(SHA) | (AI A 시작 직전에 기입) |
-| AI A 시작 시각 (KST) | (기입) |
+| 시작 커밋(SHA) | 8905f3d9c8b7f8d575fa668556016b8db2fd2672 (daily-board-04 main, "README: three real dates, receipt pair 10/1 and 10/2, stale-source incident and fix") |
+| AI A | Claude |
+| AI B | ChatGPT |
+| AI A 시작 시각 (KST) | 2026-10-02 11:46:48 |
 | AI A 종료·인수인계 시각 | (기입) |
 | AI B 시작 시각 | (기입) |
 | AI B 종료 시각 | (기입) |
